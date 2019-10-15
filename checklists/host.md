@@ -14,7 +14,7 @@
   >
   > _Estaremos também presentes nas redes sociais, através das hashtags #elugce e #elixirlang._
 - [ ] Agradecer aos convidados e voluntários
-  > _Antes de iniciarmos as apresentações, eu gostaria de agradecer aos vocês que compareceram hoje, e aos voluntários que trabalharam para fazer este evento acontecer. O evento existe para que possamos aprender uns com os outros, fazer networking e, claro, nos divertir. Bom evento a todos!_
+  > _Antes de iniciarmos as apresentações, eu gostaria de agradecer a vocês que compareceram hoje, e aos voluntários que trabalharam para fazer este evento acontecer. O evento existe para que possamos aprender uns com os outros, fazer networking e, claro, nos divertir. Bom evento a todos!_
 
 ## Antes de cada apresentação
 
@@ -24,9 +24,7 @@
 
 > _Eu gostaria de introduzir o nosso primeiro/próximo apresentador, João das Neves!_
 >
-> _João é um dos mais populares personagens do romance A Song of Ice and Fire, de George R. R. Martin. Hoje ele apresenta "Introdução ao Elixir"._
->
-> _João, por favor, junte-se a nós._
+> _João é um dos mais populares personagens do romance A Song of Ice and Fire, de George R. R. Martin. Hoje ele apresenta "Introdução ao Elixir". João, por favor, junte-se a nós._
 
 ## Após cada apresentação
 
@@ -51,4 +49,4 @@
 >
 > _Lembrando que temos um grupo no Telegram para conversarmos e fazermos networking. Vocês poderão entrar no grupo através da URL que aparece na tela._
 >
-> _O after acontecerá no (nome do lugar). Quem estiver de carro e puder oferecer carona, pode usar a oportunidade para conhecer novos membros. Boa noite a todos!_
+> _O after acontecerá no (nome do lugar). Quem estiver de carro e puder oferecer carona, pode usar a oportunidade para conhecer novos membros. Boa noite!_
