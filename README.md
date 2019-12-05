@@ -2,6 +2,15 @@
 
 Este playbook fornece guias e checklists para ajudar na organização do Elug CE, e informações para membros interessados em contribuir para os meetups com apresentações, talks e/ou workshops.
 
+## Checklists
+
+Cada checklist contém uma série de ações sugeridas para os diferentes perfis de contribuidores:
+
+- [Checklist do Meetup](meetup.md)
+- [Checklist do Organizador](organizer.md)
+- [Checklist do Host](host.md)
+- [Checklist do Apresentador](presenters.md)
+
 ## Sobre o Elug CE
 
 O Elixir User Group CE (Grupo de Usuários Elixir do Ceará) é um grupo de usuários da linguagem de programção funcional Elixir. Somos um grupo de aficcionados por programação funcional, e organizamos eventualmente atividades como encontros e meetups para compartilhar conhecimento, fazer networking ou mesmo fazer um social.
