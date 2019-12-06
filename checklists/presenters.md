@@ -1,11 +1,14 @@
 # Checklist do Apresentador
 
-### No início do evento
+## Antes do evento
 
-Apresentadores devem realizar as seguintes verificações:
+- [ ] Separar cabos e adaptadores (VGA, HDMI, etc.)
+- [ ] Avisar à organização caso precise de algum cabo ou adaptador (a providência não é garantida, mas se for possível os organizadores o providenciarão)
+- [ ] Exportar material (slides) em PDF ou HTML como backup (em caso de condições de conexão à Internet serem insuficientes)
 
-- [ ] Os adaptadores necessários estão disponíveis
-- [ ] Os cabos estão conectados e funcionando corretamente
-- [ ] As configurações de espelhamento de tela e resolução estão OK
-- [ ] Os tamanhos de fonte no terminal, editor e/ou outras ferramentas estão OK
-- [ ] O modo noturno, economia de energia e notificações (sistema operacional e navegadores) estão desabilitados
+## Antes da apresentação
+
+- [ ] Conectar e verificar se cabos e adaptadores estão funcionando corretamente
+- [ ] Verificar se as configurações de espelhamento de tela e resolução estão OK
+- [ ] Verificar se a fonte no terminal e editores são legíveis (tamanho da fonte e colorização)
+- [ ] Desabilitar o modo noturno, a economia de energia e notificações (sistema operacional e navegadores)
