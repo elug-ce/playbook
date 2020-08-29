@@ -1,176 +1,61 @@
-# Monthly Meetup
+# Checklist do Meetup
 
-## About
+Os [meetups Elug CE](https://elug-ce.github.io/atividades#meetups-elug-ce) são encontros mensais realizados pela nossa comunidade. Nesse checklist reunimos uma lista das ações necessárias para realização de uma edição de meetup.
 
-* Schedule: every second Wednesday of the month
-* Venue: varies based on need
-* Organizers:
-    * Hugo Frappier (https://github.com/frahugo)
-    * Nicholas Henry (https://github.com/nicholasjhenry)
-* Website: https://www.meetup.com/montrealelixir
+## O evento
 
-Copy-paste the following in Github Issues to keep track of the tasks and distribute them.
+> _Nota: devido à pandemia COVID-19 suspendemos o formato presencial dos meetups, e estamos aderindo temporariamente ao formato online (videoconferências)._
 
-<hr>
+- **Agenda:** primeira quarta-feira do mês, às 7 pm
+- **Lugar:** Online (videoconferência)
 
-## Roles
+Cada edição do nosso meetup ganha um post no nosso blog, e [é listada na página Atividades do nosso site.](https://elug-ce.github.io/atividades)
 
-- Event Organizer: {name}
-- Host: {name}
-- Community Advocate: {name}
-- Videographer: {name}
-- Video Producer: {name}
+## Papéis
 
-## Presenters
+Para que uma edição do nosso meetup se realize, uma série que ações precisam ser realizadas para que o mesmo se concretize. Abaixo estão descritos os papéis e atividades de cada pessoa envolvida na realização dos meetups (descritas como papéis, pois as pessoas em si podem mudar de edição para edição):
 
-### Presentation - {presenter name}
+- **[Organizador](organizer.md)**  
+  _Quem cria, organiza e gerencia todo o meetup (eg: cria o evento e abre p/ inscrições, anuncia em redes sociais, abre e gerencia Call for Papers, etc.)_
+- **[Anfitrião](host.md)**  
+   _Quem realiza e orquestra o evento no dia do mesmo (eg: abre o evento, recepciona convidados, coordena o tempo de cada atividade, introduz cada palestrante, agradecimentos finais, etc.)_
+- **[Apresentador](presenter.md)**  
+   _Aka: palestrante, workshopper, streamer. Quem apresenta algum conteúdo no dia do evento (eg: palestra, workshop, live coding, etc.)_
+- **Produtor/Editor de Vídeo** <!-- checklist pendente -->  
+  _Quem produz e/ou edita os vídeos do evento (eg: grava o evento, edita e publica apresentações separadamente, etc.)_
 
-- Presentation format (full, demi, lightning): {format}
-- Title and description: {title}. {description}
-- Your biography (1-2 sentences): {bio}
-- Twitter handle: {twitter}
-- Can the talk be recorded: {yes/no}
-- Open to questions in the group: {yes/no}
-- Adapter requirements for HDMI connection (if required): {yes/no}
+## Programação
 
-## Program
+- 6:30:7:00 pm: **Pré-abertura**  
+   _Recepção dos convidados e momentos de networking informal pré-evento_
+- 7:00-7:10 pm: **Abertura**  
+  _Abertura e início do evento, saudação dos convidados e apresentação do Elug CE (comunidade e meetups)_
+- 7:10-7:25 pm: **Who is Hiring**  
+  _Anúncio de oportunidades profissionais (2 min/empresa)_
+- 7:30-7:30 pm: **Conteúdo**  
+  _Apresentações e atividades do evento (conteúdo principal)_
+  - 7:30-7:45 pm: **1º Apresentação Curta**  
+     _15 min: 10 min conteúdo + 5 min Q&A_
+  - 7:45-8:00 pm: **2º Apresentação Curta**  
+     _15 min: 10 min conteúdo + 5 min Q&A_
+  - 8:00-8:45 pm: **Apresentação Principal**  
+     _45 min: 30 min conteúdo +15 min Q&A_
+- 8:45-9:00 pm **Mesa Redonda**  
+  _Discussão aberta sobre algum tópico relacionado ao conteúdo do evento - ou sobre Elixir/Erlang (opcional)_
+- 9:00 pm: **Networking**  
+  _Bate-papo pós-evento aberto, em videoconferência separada, para realização de networking: conhecer e/ou fazer contatos profissionais do mercado local de tecnologia (sugestão: salas de vídeoconferência no [Jitsi](https://meet.jit.si/))_
 
-- 18:30 Mingle: A chance to meet and chat with other Elixir enthusiasts before the presentations start. Grab a bite to eat.
-- 19:00 Welcome and Community Updates by {name}: A review of points of interest in our local community and Elixir in general.
-- 19:20 Break
-- 19:25 "{title}" by {name}. {description}
-- 19:50 Break
-- 19:55 "{title}" by {name}. {description}
-- 20:20 Open Announcements: Would you like to introduce yourself to the group and what you hope to learn? Are you a company looking to hire an Elixir developer? Please share!
-- 20:30 Finish: See you in {month}!
+## Realizando o evento
 
-## Event Organizer Checklist
+- [ ] **Alguém assume o papel de Organizador**  
+       _Essa pessoa toma a frente na realização de uma edição, e segue as ações descritas na [Checklist do Organizador](organizer.md)_
+- [ ] **Alguém assume o papel de Anfitrião**  
+       _Essa pessoa irá orquestrar o meetup no dia do evento, seguindo as ações descritas na [Checklist do Anfitrião](host.md). Idealmente, o anfitrião seria alguém diferente do organizador - para que ninguém fique sobrecarregado_
+- [ ] **Pessoas assumem o papel de apresentadores (palestrantes, workshoppers, streamers, etc)**  
+       _Essas pessoas serão selecionadas via processo de votação de Call for Papers_
 
-### ASAP before the event
+No geral, o papel que irá _"fazer as coisas acontecerem"_ é o Organizador. Ele é que faz todo o trabalho de criar o evento e organizar tudo literalmente semanas antes do mesmo acontecer.
 
-- [ ] Book the venue
-- [ ] Schedule talks
-- [ ] Identify sponsor
-- [ ] Apply for liquor permit: [Online Form](https://pes.securitepublique.gouv.qc.ca/acolyte/facettes/permis/captcha.faces?sid=0QJY03KP9RKWS)
+Idealmente, o Anfitrião (quem orquestra o evento no dia da realização do mesmo) seria alguém além do Organizador - para que não haja sobrecarga de trabalho. Mas também é possível que uma pessoa só possa ser tanto Organizador quanto Anfitrião do meetup.
 
-###  Minus 2 weeks
-
-- [ ] Determine agenda
-- [ ] Publish event on Meetup.com
-- [ ] Tweet the event
-
-### Minus 1 week
-
-- [ ] Check with the speakers if they need anything
-- [ ] Check with the sponsors if for announcements
-- [ ] Request for bar server
-
-### On the day of the event
-
-Plan to be at the venue at 17:00 to be ready at 18:00
-
-- [ ] Request an update on RSVP's
-
-> Hey everybody, we're looking forward to seeing you tonight. If you're unable to make it, can you please update your RSVP as a "No". This will be a big help with planning. Hopefully, we'll see you next month :-)
-
-- [ ] Print name tags
-- [ ] Print [presentation checklist](https://github.com/montrealelixir/playbook/issues/18)
-
-#### Food and Beverage
-
-- [ ] Order the food (http://www.pizzafco.com/contact/)  
-
-  Order 1m pizzas. Ask them to slice it in 14. About 2 slices per person.
-  Have it delivered to Shopify, 525 Ave Viger, Suite 300. The   delivery person will ask for the credit card that was used to pay the order.
-
-  - Boscaiola
-  - Margherita
-  - Speck
-  - Caprese
-  - Diavola
-
-- [ ] Buy the drinks
-  - 3 x 12 beer
-  - 2 x 6 soda
-  - 1 x 12 water
-- [ ] Bring the liquor permit
-
-### During the event
-
-- [ ] Display welcome slide with sponsors
-- [ ] Put music on
-- [ ] Display the liquor permit
-
-### At the end of the event
-
-- [ ] Take liquor permit back
-
-### Plus 1 day
-
-- [ ] Write a follow-up on Meetup.com
-- [ ] A tweet of appreciation to sponsors
-- [ ] Email the sponsors to say thank you
-- [ ] Email the venue to say thank you
-- [ ] Email the speakers to say thank you
-
-### ASAP after the event
-
-- [ ] Review checklist from Playbook to incorporate new items
-- [ ] Create issue for next event
-
-## Community Advocate
-
-### Minus 1 week
-
-- [ ] Prepare introduction notes
-- [ ] Prepare community update
-
-### During presentations
-
-- [ ] Prepare backup questions
-- [ ] Take photos of presenters
-- [ ] Live tweet
-
-### ASAP after the event
-
-- [ ] Post photos to Meetup.com
-
-## Videographer Checklist
-
-### On the day of the event
-
-- [ ] Prepare recording equipment
-- [ ] Recharge camera batteries
-- [ ] Make sure AA batteries are OK in the wireless audio modules
-
-### Before the event starts
-
-- [ ] Perform sound check (mic, camera, venue AV system)
-- [ ] HDMI capture test (capture, then verify content on SD card)
-
-### Before the presentation
-
-- [ ] Install mic on presenter
-- [ ] **IMPORTANT** make sure the cables are properly screwed to the receiver/transmitter units. Otherwise, you could loose the audio when the cable move.
-- [ ] Sound check
-- [ ] Start HDMI capturing
-- [ ] Start video recording (make sure we have portion of the displayed slides so we can sync video with HDMI capturing)
-
-### At the end of the event
-
-- [ ] Pack equipment
-
-## Video Producer Checklist
-
-### ASAP after the event
-
-- [ ] Produce and publish videos
-- [ ] Include links to slides on YouTube
-- Announce videos
-  - [ ] [Twitter](https://twitter.com/montrealelixir)
-  - [ ] [Meetup.com](https://www.meetup.com/montrealelixir/)
-  - [ ] [ElixirForum](https://elixirforum.com/c/learning-resources/talks)
-
-## Credits
-
-The checklist is based on and inspired by [montreal.rb](https://github.com/montrealrb/playbook/blob/master/checklists/meetup.md).
+No mais, basta seguir as ações descritas nas checklists, e qualquer membro da comunidade pode se tornar Organizador, Anfitrião e/ou Apresentador de um dos nossos meetups.
