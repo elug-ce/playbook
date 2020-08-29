@@ -3,8 +3,10 @@
 ## Antes do evento
 
 - [ ] Separar cabos e adaptadores (VGA, HDMI, etc.)
-- [ ] Avisar à organização caso precise de algum cabo ou adaptador (a providência não é garantida, mas se for possível os organizadores o providenciarão)
-- [ ] Exportar material (slides) em PDF ou HTML como backup (em caso de condições de conexão à Internet serem insuficientes)
+- [ ] Avisar à organização caso precise de algum cabo ou adaptador  
+       _A providência não é garantida, mas se for possível os organizadores providenciarão_
+- [ ] Exportar material (slides) em PDF ou HTML como backup  
+      _Em caso de condições de conexão à Internet serem insuficientes_
 
 ## Antes da apresentação
 
