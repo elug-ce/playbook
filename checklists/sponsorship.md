@@ -11,10 +11,10 @@
 
 ### Montagem do kit de marketing do evento
 
-- [] Definir tema
-- [] Definir logo
-- [] Definir banner de dvulgação
-- [] Definir brindes (camisa, crachá, canetas, folders, canetas...)
+- [ ] Definir tema
+- [ ] Definir logo
+- [ ] Definir banner de dvulgação
+- [ ] Definir brindes (camisa, crachá, canetas, folders, canetas...)
 
 ### Exemplos das vantagens
 
