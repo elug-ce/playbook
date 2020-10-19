@@ -6,10 +6,14 @@ Este playbook fornece guias e checklists para ajudar na organização do Elug CE
 
 Cada checklist contém uma série de ações sugeridas para os diferentes perfis de contribuidores:
 
-- [Checklist do Meetup (meetup.md)](checklists/meetup.md)
-- [Checklist do Organizador (organizer.md)](checklists/organizer.md)
-- [Checklist do Host (host.md)](checklists/host.md)
-- [Checklist do Apresentador (presenter.md)](checklists/presenter.md)
+- **[Checklist do Meetup](checklists/meetup.md)**  
+  _Tudo que é preciso para realizar um meetup_
+  - **[Checklist do Organizador](checklists/organizer.md)**  
+    _Uma lista de tarefas para quem quer organizar a realização de um meetup_
+  - **[Checklist do Host](checklists/host.md)**  
+    _Uma lista de tarefas para quem realiza o meetup_
+  - **[Checklist do Apresentador](checklists/presenter.md)**  
+    _Uma lista de tarefas para quem quer apresentar conteúdo nos nossos meetups_
 
 ## Sobre o Elug CE
 
