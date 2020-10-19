@@ -1,6 +1,6 @@
 # Checklist do Meetup
 
-Os [meetups Elug CE](https://elug-ce.github.io/atividades#meetups-elug-ce) são encontros mensais realizados pela nossa comunidade. Nesse checklist reunimos uma lista das ações necessárias para realização de uma edição de meetup.
+Os [meetups Elug CE](https://elug-ce.github.io/atividades#meetups-elug-ce) são encontros periódicos realizados pela nossa comunidade. Nesse checklist reunimos uma lista das ações necessárias para realização de uma edição de meetup.
 
 ## O evento
 
